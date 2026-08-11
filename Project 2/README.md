@@ -1,7 +1,7 @@
 # Project 2 — Iris Flower Classification
 
 **Internship:** DecodeLabs  
-**Project:** 2 — Data Classification Using AI
+**Project 2:** Data Classification Using AI
 
 ## Overview
 
