@@ -5,7 +5,7 @@ This repository contains all projects completed during the Decode Labs Artificia
 ## Projects
 
 - Project 1 – Rule-Based AI Chatbot
-- Project 2 – Coming Soon
+- Project 2 – Iris Flower Classification
 - Project 3 – Coming Soon
 - Project 4 – Coming Soon
 
